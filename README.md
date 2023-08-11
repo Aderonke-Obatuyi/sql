@@ -1,2 +1,2 @@
 # sql
-SQL Project..when was the golden age of video games? using jupyter notebook
+As a data analyst, I recently completed a SQL project titled "Determining the Golden Age of Video Games." Throughout this project, I applied various techniques learned in the field, including joining data using SQL's left and inner joins. Additionally, I utilized set theory concepts such as union and intersect, as well as employed subqueries. I also incorporated foundational SQL knowledge, such as selecting specific columns from tables, filtering rows based on specific criteria, employing aggregation functions, performing calculations on grouped data, and filtering data within the groups.
